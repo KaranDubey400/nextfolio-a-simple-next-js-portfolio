@@ -1,6 +1,6 @@
 export const metaData = {
   baseUrl: "https://nextfolio-template.vercel.app/",
-  title: "Nextfolio",
+  title: "Karan Dubey",
   name: "Sirius",
   ogImage: "/opengraph-image.png",
   description:
@@ -8,9 +8,9 @@ export const metaData = {
 };
 
 export const socialLinks = {
-  twitter: "https://x.com/1tssirius",
-  github: "https://github.com/1msirius/Nextfolio",
+  twitter: "https://x.com/Elliptical90143",
+  github: "https://github.com/KaranDubey400",
   instagram: "https://www.instagram.com/",
-  linkedin: "https://www.linkedin.com/",
-  email: "mailto:example@gmail.com",
+  linkedin: "https://www.linkedin.com/in/karan-dubey-600b59261/",
+  email: "karndubey2122@gmail.com",
 };
