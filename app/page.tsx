@@ -7,7 +7,7 @@ export default function Page() {
       <a href={socialLinks.twitter} target="_blank">
 
   <Image
-  src="/converted_image.png"
+  src="/c4e9fbe3f00fafdd9c0e4475b6cc7504.jpg"
   alt="Profile photo"
   className="rounded-full bg-gray-100 block lg:mt-5 mt-0 lg:mb-5 mb-10 mx-auto sm:float-right sm:ml-5 sm:mb-5"
   unoptimized
